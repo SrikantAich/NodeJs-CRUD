@@ -1,6 +1,4 @@
-To create a README file for your basic Node.js ToDo application, you can provide an overview of the project, its features, and how to set it up. Here's a template you can use:
 
----
 
 # Node.js ToDo Application
 
@@ -84,4 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Make sure to replace placeholders like `<your_repository_url>` and customize it further based on your specific implementation details and requirements.
